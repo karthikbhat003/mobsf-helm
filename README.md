@@ -1,0 +1,1 @@
+This is all about deploying basic mobsf image in local with persistent volume
